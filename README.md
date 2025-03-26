@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semisaad
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me @saad.khan223@outlook.com
 
